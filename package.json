@@ -1,0 +1,13 @@
+{
+  "name": "freeshot-page-url-indexer",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Cloudflare Worker that indexes Freeshot live TV website page URLs only.",
+  "scripts": {
+    "dev": "wrangler dev",
+    "deploy": "wrangler deploy"
+  },
+  "devDependencies": {
+    "wrangler": "^4.0.0"
+  }
+}
